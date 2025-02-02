@@ -14,4 +14,4 @@ Start the web server
 ```
 node app.js
 ```
-The web server will expose port 40233. Compute the x-platform header by navigating to http://localhost:40233
+The web server will expose port 40233. Compute the x-platform header by navigating to http://localhost:40233/x-platform
