@@ -8,7 +8,7 @@ Install node_modules packages
 npm install
 ```
 
-## Run ##
+## Usage ##
 
 Start the web server
 ```
